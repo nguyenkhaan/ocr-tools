@@ -4,6 +4,7 @@ def main(file : str, format : str):
     subprocess.run([
         "mineru", "-p", file, 
         "-o" , f"./outputs/{format}/mineru", 
-        "--output_format", format
+        "--output_format", format, 
+        "--backend", "pipeline"
     ] , check=True)
     
