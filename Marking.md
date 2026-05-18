@@ -5,7 +5,7 @@
 ### Tốc độ Xử lý
 - **Thời gian xử lý**: ~10 phút (600 giây) cho tài liệu j_0057.pdf (4 trang, tiếng Nhật, nhiều hình ảnh phức tạp)
 - **Nhận xét**: Chậm nhất trong 4 thư viện, không phù hợp cho xử lý hàng loạt
-
+- Thực hiện nhiều quá trình trong bước parse pdf 
 ### Xử lý Text
 - **Độ chính xác**: Rất cao - nội dung gần tương tự với tài liệu gốc
 - **Cấu trúc markdown**: Rất tốt - phân chia rõ ràng theo cấp (#, ##, ###)

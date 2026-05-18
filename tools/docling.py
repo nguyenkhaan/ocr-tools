@@ -9,7 +9,7 @@ def main(file: str, format: str):
 
     md = result.document.export_to_markdown()
 
-    output_path = f"./outputs/{format}/docling/j_0057.md"
+    output_path = f"./outputs/{format}/docling/v_0104.md"
 
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(md)

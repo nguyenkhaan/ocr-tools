@@ -1,0 +1,744 @@
+{
+  "table_of_contents": [
+    {
+      "title": "TH\u1ec2 T\u00cdN D\u1ee4NG QU\u1ed0C T\u1ebe WOORI BANK - DANH S\u00c1CH MCC T\u1eeaNG L\u0128NH V\u1ef0C V\u00c0 DANH S\u00c1CH MCC LO\u1ea0I TR\u1eea",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.30982367758186,
+          84.07479964381122
+        ],
+        [
+          523.1889168765742,
+          84.07479964381122
+        ],
+        [
+          523.1889168765742,
+          116.35351736420303
+        ],
+        [
+          71.30982367758186,
+          116.35351736420303
+        ]
+      ]
+    },
+    {
+      "title": "WOORI BANK VISA CREDIT CARD - DETAILED MCCS FOR EACH CATEGORY & MCC EXCLUSION LIST",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          77.31486146095718,
+          125.36153161175423
+        ],
+        [
+          519.4357682619648,
+          125.36153161175423
+        ],
+        [
+          519.4357682619648,
+          151.63490650044523
+        ],
+        [
+          77.119140625,
+          151.63490650044523
+        ]
+      ]
+    },
+    {
+      "title": "I - Danh s\u00e1ch MCC \u0111\u01b0\u1ee3c \u00e1p d\u1ee5ng t\u00edch \u0111i\u1ec3m/ Eligible MCC for each category",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          69.05793450881612,
+          182.41228851291183
+        ],
+        [
+          433.8639798488665,
+          182.41228851291183
+        ],
+        [
+          433.8639798488665,
+          196.67497773820125
+        ],
+        [
+          69.05793450881612,
+          197.16650390625
+        ]
+      ]
+    },
+    {
+      "title": "3. B\u1ea3o hi\u1ec3m/ Insurance",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          88.759765625,
+          198.81298828125
+        ],
+        [
+          206.1274871826172,
+          197.16650390625
+        ],
+        [
+          206.1274871826172,
+          211.6151123046875
+        ],
+        [
+          88.759765625,
+          211.6151123046875
+        ]
+      ]
+    },
+    {
+      "title": "6. H\u00e0ng kh\u00f4ng/Airlines",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          86.32241813602015,
+          305.52181656277827
+        ],
+        [
+          211.67758186397984,
+          305.52181656277827
+        ],
+        [
+          211.67758186397984,
+          319.7845057880677
+        ],
+        [
+          86.32241813602015,
+          319.7845057880677
+        ]
+      ]
+    },
+    {
+      "title": "7. Du l\u1ecbch/ Travel",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          88.177734375,
+          357.69873046875
+        ],
+        [
+          178.76625061035156,
+          357.69873046875
+        ],
+        [
+          178.76625061035156,
+          370.01513671875
+        ],
+        [
+          88.177734375,
+          370.01513671875
+        ]
+      ]
+    },
+    {
+      "title": "II - Danh s\u00e1ch MCC lo\u1ea1i tr\u1eeb/ MCC exclusion list",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          71.58984375,
+          192.22705078125
+        ],
+        [
+          300.91015625,
+          190.58056640625
+        ],
+        [
+          300.3787841796875,
+          204.1151123046875
+        ],
+        [
+          70.42578125,
+          204.1151123046875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          41
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "Span",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          218
+        ],
+        [
+          "Line",
+          76
+        ],
+        [
+          "TableCell",
+          40
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          120
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Span",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          307
+        ],
+        [
+          "TableCell",
+          135
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          307
+        ],
+        [
+          "TableCell",
+          132
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          307
+        ],
+        [
+          "TableCell",
+          135
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          301
+        ],
+        [
+          "TableCell",
+          129
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          333
+        ],
+        [
+          "TableCell",
+          148
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          307
+        ],
+        [
+          "TableCell",
+          132
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          307
+        ],
+        [
+          "TableCell",
+          132
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          307
+        ],
+        [
+          "TableCell",
+          135
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          307
+        ],
+        [
+          "TableCell",
+          132
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          307
+        ],
+        [
+          "TableCell",
+          132
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          294
+        ],
+        [
+          "TableCell",
+          129
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          297
+        ],
+        [
+          "TableCell",
+          132
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          58
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "TableCell",
+          13
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/v_0104"
+}

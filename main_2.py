@@ -21,10 +21,10 @@ def handle_parse_pdf(callback , file , format):
 if __name__ == '__main__': 
     # markdown 
     # marker - pdf  
-    t1 = handle_parse_pdf(marker_pdf , FILE_PATHS[0] , 'markdown')
-    # t2 = handle_parse_pdf(docling_pdf , FILE_PATHS[0] , 'markdown') 
+    # t1 = handle_parse_pdf(marker_pdf , FILE_PATHS[0] , 'markdown')
+    # t2 = handle_parse_pdf(docling_pdf , FILE_PATHS[0] , 'markdown') #
     # t3 = handle_parse_pdf(pymupdf_pdf , FILE_PATHS[0] , 'markdown')  
     # t4 = handle_parse_pdf(mineru_pdf , FILE_PATHS[0] , 'markdown')  
-    print(f'Parsing pdf run in {t1:.4f} seconds')
-    #  532.6957, 81.2590, 5.5660
-    #   3061.581326007843        510.4770 seconds 33.7259s  769.3323   
+    # print(f'Parsing pdf run in {t2:.4f} seconds')
+    #  532.6957, 81.2590, 5.5660 ~400s 
+    pass 
